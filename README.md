@@ -8,7 +8,7 @@ settings:
   use_proxy: False # True / False
   proxy_protocol: "HTTP" # HTTP / SOCKS5
   account_count: 10 # ACCOUNT AMOUNT DO YOU WANT TO GENERATE
-  api_key: "" # SMSACTIVE API KEY
+  api_key: ""  # SMSACTIVE API KEY
 ````
 
 # NOTES:
