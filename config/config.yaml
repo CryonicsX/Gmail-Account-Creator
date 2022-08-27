@@ -1,0 +1,6 @@
+settings:
+  browser_thread: 5
+  use_proxy: False
+  proxy_protocol: "HTTP"
+  account_count: 10
+  api_key: ""
